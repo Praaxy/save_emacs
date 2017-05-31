@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ ftp
+ 5x5
+ man
+ count-words
+ cd
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (count-words . 1)
+ (man . 1)
+ (5x5 . 1)
+ (ftp . 1)
+)
